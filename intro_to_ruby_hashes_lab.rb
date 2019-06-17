@@ -1,9 +1,9 @@
 def new_hash
-
+	new_empty_hash = {}		#creates and returns a new, empty hash
 end
 
-def actor
-
+def actor				# creates and returns a hash with a certain actor's name
+	actor => {:name Dwayne The Rock Johnson}
 end
 
 def monopoly
