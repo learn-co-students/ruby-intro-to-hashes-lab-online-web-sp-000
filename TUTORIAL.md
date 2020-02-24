@@ -5,9 +5,11 @@
 In the instructions it tells us that this method should return an empty hash. We do not need to use the `return` keyword to explicitly return the hash, since in Ruby the last line that executes is implicitly returned.
 
 ```ruby
+
 def new_hash
-  {}
+  new_hash = {}
 end
+
 ```
 
 ### `#actor`
