@@ -46,6 +46,7 @@ def monopoly_with_fourth_tier
 	        if mortgage_value = "$100"
 	          true 
 	         end 
+	         mortgage_value
 	       end
 	      
 	    }, :pennsylvania_railroad => {}, :b_and_o_railroad => {}, :shortline => {}
